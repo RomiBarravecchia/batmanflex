@@ -1,0 +1,165 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+html{
+    background-color: antiquewhite;
+    font-family: 'Roboto', sans-serif;
+}
+.fondo_descuento{
+    background-color: aqua;
+    width: 1024px;
+    margin-left: 20px;   
+}
+.titulo-principal{
+    background-color:#00669f ;
+    border: 1px; 
+    box-sizing: border-box;
+    position: absolute;
+    width: 1024px;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+    margin-bottom: 30px;  
+    margin-left: 20px; 
+}
+.seccion{
+    padding: 50px;
+    display: flex;
+    width: 100%;
+    margin-top: 100px;   
+}
+.tarjeta{
+    width: 300px;
+    background-color:#f3f3f3;
+    margin-right: 20px;
+}
+
+
+.tarjeta-encabezado_1{
+    width: 100%;
+    height: 180px;
+    position: relative;
+    margin-bottom: 50px;
+}
+.imagen-fondo_1{
+    background: url(/img/fondo\ batman.png);
+    width: 100%;
+    height: 150px;
+    position: absolute;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;    
+}
+.imagen-redonda_1{
+    background: url(/img/liga-justicia-batman-kO4H--1024x512@abc\ 1batman.png);
+    width: 120px;
+    height: 118px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+}
+.imagen-container_1{
+    text-align: center;
+    width: 100%;
+    height: 118px;  
+}
+.espaciado{
+    margin-bottom: 20px;
+
+}
+.titulo1{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 400;
+}
+.texto{
+    font-size: 16px;
+    font-weight: 400;
+    
+}
+.boton{
+    background-color: #00669f ;
+    padding: 10px;
+    border-style: none;
+}
+.center{
+    text-align: center;
+}
+
+
+
+.tarjeta-encabezado_2{
+    width: 100%;
+    height: 180px;
+    position: relative;
+    margin-bottom: 50px;
+}
+.imagen-fondo_2{
+    background: url(/img/fondo\ harley.png);
+    width: 100%;
+    height: 150px;
+    position: absolute;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;    
+}
+.imagen-redonda_2{
+    background: url(/img/harley.png);
+    width: 120px;
+    height: 118px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+}
+.imagen-container_2{
+    text-align: center;
+    width: 100%;
+    height: 118px;
+}
+
+
+
+.tarjeta-encabezado_3{
+    width: 100%;
+    height: 180px;
+    position: relative;
+    margin-bottom: 50px;
+}
+.imagen-fondo_3{
+    background: url(/img/fondo\ batman.png);
+    width: 100%;
+    height: 150px;
+    position: absolute;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;   
+}
+.imagen-redonda_3{
+    background: url(/img/liga-justicia-batman-kO4H--1024x512@abc\ 1batman.png);
+    width: 120px;
+    height: 118px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+}
+.imagen-container_3{
+    text-align: center;
+    width: 100%;
+    height: 118px;
+}
+
+footer{
+    background-color: #00669F;
+    width: 1024px;
+    height: 51px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); 
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.tipografia{
+    color: #f3f3f3;
+    font-size: 14px;
+    font-style: normal;
+    padding: 10px;
+}
+
